@@ -1,7 +1,5 @@
 # GuessingGame Lab
 
-# Too Large Too Small
-
 ## Objectives
 
 1. To demonstrate your understanding of objects
